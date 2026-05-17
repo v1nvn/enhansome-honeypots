@@ -253,7 +253,7 @@
                 "last_commit": "2025-12-19T22:02:41Z",
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1110
+                "stars": 1108
               }
             },
             {
@@ -700,7 +700,7 @@
                 "last_commit": "2024-08-01T13:23:27Z",
                 "owner": "DinoTools",
                 "repo": "dionaea",
-                "stars": 802
+                "stars": 801
               }
             },
             {
@@ -962,7 +962,7 @@
                 "last_commit": "2021-06-28T18:46:07Z",
                 "owner": "citronneur",
                 "repo": "rdpy",
-                "stars": 1737
+                "stars": 1738
               }
             },
             {
@@ -1147,7 +1147,7 @@
                 "last_commit": "2026-05-11T19:37:19Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1474
+                "stars": 1475
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2026-05-04T20:01:02Z",
                 "owner": "sjhilt",
                 "repo": "GasPot",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -1195,7 +1195,7 @@
             "last_commit": "2026-05-11T19:37:19Z",
             "owner": "mushorg",
             "repo": "conpot",
-            "stars": 1474
+            "stars": 1475
           }
         },
         {
@@ -1569,7 +1569,7 @@
                 "last_commit": "2026-05-15T16:03:33Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2478
+                "stars": 2479
               }
             }
           ],
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-05-15T16:03:33Z",
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2478
+            "stars": 2479
           }
         },
         {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2026-03-14T12:55:45Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9196
+                "stars": 9208
               }
             },
             {
@@ -1809,7 +1809,7 @@
                 "last_commit": "2026-05-15T09:51:36Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 1991
+                "stars": 1993
               }
             }
           ],
@@ -1821,7 +1821,7 @@
             "last_commit": "2026-03-14T12:55:45Z",
             "owner": "telekom-security",
             "repo": "tpotce",
-            "stars": 9196
+            "stars": 9208
           }
         },
         {
@@ -2043,7 +2043,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-05-09T18:13:46Z",
+                "last_commit": "2026-05-16T22:41:09Z",
                 "owner": "mushorg",
                 "repo": "glutton",
                 "stars": 300
@@ -2578,7 +2578,7 @@
                 "last_commit": "2026-05-12T08:52:52Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6355
+                "stars": 6362
               }
             },
             {
@@ -2604,7 +2604,7 @@
                 "last_commit": "2024-06-03T13:22:10Z",
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8452
+                "stars": 8455
               }
             },
             {
@@ -3353,7 +3353,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-05-15T19:44:42Z",
+                "last_commit": "2026-05-16T19:32:28Z",
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 211
@@ -3365,7 +3365,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-15T19:44:42Z",
+            "last_commit": "2026-05-16T19:32:28Z",
             "owner": "SentryPeer",
             "repo": "SentryPeer",
             "stars": 211
@@ -3462,7 +3462,7 @@
                 "last_commit": "2022-07-13T08:08:43Z",
                 "owner": "secureworks",
                 "repo": "dcept",
-                "stars": 507
+                "stars": 506
               }
             },
             {
@@ -3690,7 +3690,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-05-16T00:01:37Z",
+                "last_commit": "2026-05-16T16:11:46Z",
                 "owner": "ivre",
                 "repo": "ivre",
                 "stars": 4015
@@ -3773,7 +3773,7 @@
             "last_commit": "2016-11-09T01:26:47Z",
             "owner": "andrewmichaelsmith",
             "repo": "honeypot-setup-script",
-            "stars": 84
+            "stars": 83
           }
         },
         {
@@ -3850,7 +3850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:33:06.187Z",
+    "last_updated": "2026-05-17T05:54:40.990Z",
     "original_repository": "paralax/awesome-honeypots",
     "source_repository": "v1nvn/enhansome-honeypots",
     "source_repository_description": null,
