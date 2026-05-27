@@ -2,6 +2,11 @@
   "items": [
     {
       "description": "",
+      "items": [],
+      "title": "Related Lists"
+    },
+    {
+      "description": "",
       "items": [
         {
           "children": [],
@@ -26,17 +31,149 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 13792
+            "stars": 13793
           }
+        },
+        {
+          "children": [],
+          "description": "REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.",
+          "title": "CyberBriefing IOC Feeds API"
         }
       ],
-      "title": "Related Lists"
+      "title": "Honeypots"
     },
     {
       "description": "",
       "items": [
         {
           "children": [
+            {
+              "children": [],
+              "description": "Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.",
+              "title": "Acra",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-04-23T00:16:58Z",
+                "owner": "cossacklabs",
+                "repo": "acra",
+                "stars": 1479
+              }
+            },
+            {
+              "children": [],
+              "description": "An Elasticsearch Honeypot written in Python.",
+              "title": "Delilah"
+            },
+            {
+              "children": [],
+              "description": "An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.",
+              "title": "ESPot",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2014-08-25T07:10:30Z",
+                "owner": "mycert",
+                "repo": "ESPot",
+                "stars": 28
+              }
+            },
+            {
+              "children": [],
+              "description": "A Simple Elasticsearch Honeypot.",
+              "title": "Elastic honey",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2015-07-14T19:27:37Z",
+                "owner": "jordan-wright",
+                "repo": "elastichoney",
+                "stars": 191
+              }
+            },
+            {
+              "children": [],
+              "description": "A simple Mysql honeypot project.",
+              "title": "HoneyMysql"
+            },
+            {
+              "children": [],
+              "description": "A MongoDB honeypot proxy.",
+              "title": "MongoDB-HoneyProxy",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-02-20T01:16:32Z",
+                "owner": "Plazmaz",
+                "repo": "MongoDB-HoneyProxy",
+                "stars": 93
+              }
+            },
+            {
+              "children": [],
+              "description": "The NoSQL Honeypot Framework.",
+              "title": "NoSQLpot",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-17T07:27:57Z",
+                "owner": "torque59",
+                "repo": "nosqlpot",
+                "stars": 103
+              }
+            },
+            {
+              "children": [],
+              "description": "Low interaction MySQL honeypot written in C.",
+              "title": "mysql-honeypotd",
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-05-23T04:57:29Z",
+                "owner": "sjinks",
+                "repo": "mysql-honeypotd",
+                "stars": 37
+              }
+            },
+            {
+              "children": [],
+              "description": "A mysql honeypot, still very very early stage.",
+              "title": "MysqlPot",
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2012-10-14T19:17:10Z",
+                "owner": "schmalle",
+                "repo": "MysqlPot",
+                "stars": 22
+              }
+            },
+            {
+              "children": [],
+              "description": "Low-interaction Postgres Honeypot.",
+              "title": "pghoney",
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-05-20T19:13:04Z",
+                "owner": "betheroot",
+                "repo": "pghoney",
+                "stars": 20
+              }
+            },
+            {
+              "children": [],
+              "description": "medium interaction postgresql honeypot.",
+              "title": "sticky_elephant",
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2024-08-06T17:17:05Z",
+                "owner": "betheroot",
+                "repo": "sticky_elephant",
+                "stars": 13
+              }
+            },
             {
               "children": [],
               "description": "Elasticsearch Honeypot written in Python (originally from Novetta).",
@@ -177,15 +314,55 @@
           "title": "Database Honeypots",
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2015-06-11T12:30:14Z",
-            "owner": "SecurityTW",
-            "repo": "delilah",
-            "stars": 25
+            "language": "Go",
+            "last_commit": "2026-04-23T00:16:58Z",
+            "owner": "cossacklabs",
+            "repo": "acra",
+            "stars": 1479
           }
         },
         {
           "children": [
+            {
+              "children": [],
+              "description": "Tool hacking-back hackers who tried to steal tokens.",
+              "title": "Ethereum-honey-pot",
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-11-17T14:16:33Z",
+                "owner": "jeremyfritzen",
+                "repo": "Ethereum-honey-pot",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "Blockchain honeypots",
+          "title": "Blockchain honeypots",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-11-17T14:16:33Z",
+            "owner": "jeremyfritzen",
+            "repo": "Ethereum-honey-pot",
+            "stars": 12
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
+              "title": "Krawl",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-25T13:21:31Z",
+                "owner": "BlessedRebuS",
+                "repo": "Krawl",
+                "stars": 533
+              }
+            },
             {
               "children": [],
               "description": "Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?",
@@ -193,7 +370,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-05-23T12:36:42Z",
+                "last_commit": "2026-05-27T01:06:36Z",
                 "owner": "SAP",
                 "repo": "cloud-active-defense",
                 "stars": 106
@@ -223,6 +400,19 @@
                 "owner": "eymengunay",
                 "repo": "EoHoneypotBundle",
                 "stars": 38
+              }
+            },
+            {
+              "children": [],
+              "description": "Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.",
+              "title": "FCaptcha",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-05-21T18:05:49Z",
+                "owner": "WebDecoy",
+                "repo": "FCaptcha",
+                "stars": 147
               }
             },
             {
@@ -388,7 +578,7 @@
                 "last_commit": "2024-04-10T14:22:38Z",
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1081
+                "stars": 1082
               }
             },
             {
@@ -402,6 +592,19 @@
                 "owner": "d1str0",
                 "repo": "drupot",
                 "stars": 58
+              }
+            },
+            {
+              "children": [],
+              "description": "Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.",
+              "title": "flux",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-27T06:26:00Z",
+                "owner": "andrewmichaelsmith",
+                "repo": "flux",
+                "stars": 4
               }
             },
             {
@@ -609,6 +812,19 @@
                 },
                 {
                   "children": [],
+                  "description": "Zero-configuration WordPress plugin with invisible honeypot fields, behavioral analysis, and SHA-256 proof-of-work challenges to detect bots, headless browsers, and automation frameworks.",
+                  "title": "WebDecoy",
+                  "repo_info": {
+                    "archived": false,
+                    "language": "PHP",
+                    "last_commit": "2026-03-01T23:57:53Z",
+                    "owner": "WebDecoy",
+                    "repo": "wordpress-plugin",
+                    "stars": 1
+                  }
+                },
+                {
+                  "children": [],
                   "description": "WordPress Honeypot.",
                   "title": "wordpot",
                   "repo_info": {
@@ -650,11 +866,11 @@
           "title": "Web honeypots",
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-23T12:36:42Z",
-            "owner": "SAP",
-            "repo": "cloud-active-defense",
-            "stars": 106
+            "language": "Python",
+            "last_commit": "2026-05-25T13:21:31Z",
+            "owner": "BlessedRebuS",
+            "repo": "Krawl",
+            "stars": 533
           }
         },
         {
@@ -1122,6 +1338,19 @@
                 "repo": "kippo_detect",
                 "stars": 60
               }
+            },
+            {
+              "children": [],
+              "description": "Honeypot detection toolkit with protocol fingerprinting for 25+ honeypot types.",
+              "title": "potsnitch",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-10T21:53:46Z",
+                "owner": "f0rw4rd",
+                "repo": "potsnitch",
+                "stars": 12
+              }
             }
           ],
           "description": "Anti-honeypot stuff",
@@ -1160,7 +1389,7 @@
                 "last_commit": "2026-05-04T20:01:02Z",
                 "owner": "sjhilt",
                 "repo": "GasPot",
-                "stars": 148
+                "stars": 149
               }
             },
             {
@@ -1185,6 +1414,19 @@
               "children": [],
               "description": "Mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.",
               "title": "scada-honeynet"
+            },
+            {
+              "children": [],
+              "description": "Mimics multiple PLC devices, including Siemenens and Rockewell",
+              "title": "HoneyPLC",
+              "repo_info": {
+                "archived": false,
+                "language": "Pascal",
+                "last_commit": "2023-05-16T14:05:05Z",
+                "owner": "sefcom",
+                "repo": "honeyplc",
+                "stars": 98
+              }
             }
           ],
           "description": "ICS/SCADA honeypots",
@@ -1196,6 +1438,33 @@
             "owner": "mushorg",
             "repo": "conpot",
             "stars": 1477
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Mimics multiple satellite missions",
+              "title": "HoneySat",
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-07-08T21:50:56Z",
+                "owner": "HoneySat",
+                "repo": "honeysat-deploy",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Space/Satellite honeypots",
+          "title": "Space/Satellite honeypots",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-08T21:50:56Z",
+            "owner": "HoneySat",
+            "repo": "honeysat-deploy",
+            "stars": 0
           }
         },
         {
@@ -1347,6 +1616,19 @@
                 "repo": "miniprint",
                 "stars": 204
               }
+            },
+            {
+              "children": [],
+              "description": "Mimics FortiGate SSL-VPN devices to capture brute-force attempts, symlink exploit probes, and malicious IP telemetry.",
+              "title": "FortiGate SSL-VPN Honeypot",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-26T21:25:33Z",
+                "owner": "PeterGabaldon",
+                "repo": "Fortigate.VPN-SSL.Honeypot",
+                "stars": 10
+              }
             }
           ],
           "description": "Other/random",
@@ -1489,6 +1771,33 @@
           ],
           "description": "Log anonymizer",
           "title": "Log anonymizer"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.",
+              "title": "Mimicry",
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2026-03-20T02:41:08Z",
+                "owner": "chaitin",
+                "repo": "mimicry",
+                "stars": 60
+              }
+            }
+          ],
+          "description": "Dynamic Deception Tool",
+          "title": "Dynamic Deception Tool",
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-03-20T02:41:08Z",
+            "owner": "chaitin",
+            "repo": "mimicry",
+            "stars": 60
+          }
         },
         {
           "children": [
@@ -1751,7 +2060,7 @@
                 "last_commit": "2026-05-22T08:03:41Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6078
+                "stars": 6079
               }
             },
             {
@@ -1776,7 +2085,7 @@
             "last_commit": "2026-05-22T08:03:41Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6078
+            "stars": 6079
           }
         },
         {
@@ -1796,7 +2105,7 @@
                 "last_commit": "2026-05-20T15:11:04Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9238
+                "stars": 9240
               }
             },
             {
@@ -1806,10 +2115,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-05-21T07:51:57Z",
+                "last_commit": "2026-05-26T13:14:48Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2012
+                "stars": 2015
               }
             }
           ],
@@ -1821,7 +2130,7 @@
             "last_commit": "2026-05-20T15:11:04Z",
             "owner": "telekom-security",
             "repo": "tpotce",
-            "stars": 9238
+            "stars": 9240
           }
         },
         {
@@ -1848,11 +2157,11 @@
               "title": "Artillery",
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2020-09-30T12:44:23Z",
-                "owner": "trustedsec",
+                "language": "Python",
+                "last_commit": "2022-01-06T01:14:11Z",
+                "owner": "BinaryDefense",
                 "repo": "artillery",
-                "stars": 339
+                "stars": 1041
               }
             },
             {
@@ -2202,11 +2511,11 @@
           "title": "Server",
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2020-09-30T12:44:23Z",
-            "owner": "trustedsec",
+            "language": "Python",
+            "last_commit": "2022-01-06T01:14:11Z",
+            "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 339
+            "stars": 1041
           }
         },
         {
@@ -2575,7 +2884,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-05-26T01:31:35Z",
+                "last_commit": "2026-05-26T09:14:53Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
                 "stars": 6370
@@ -2604,7 +2913,7 @@
                 "last_commit": "2024-06-03T13:22:10Z",
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8473
+                "stars": 8472
               }
             },
             {
@@ -2631,6 +2940,19 @@
                 "owner": "Cryptix720",
                 "repo": "HUDINX",
                 "stars": 8
+              }
+            },
+            {
+              "children": [],
+              "description": "Security agent with built-in SSH and HTTP honeypots featuring an LLM-powered interactive fake shell that captures credentials and attacker commands.",
+              "title": "InnerWarden",
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-05-26T20:18:00Z",
+                "owner": "InnerWarden",
+                "repo": "innerwarden",
+                "stars": 149
               }
             },
             {
@@ -3252,7 +3574,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-05-19T04:40:44Z",
+                "last_commit": "2026-05-27T00:24:11Z",
                 "owner": "buffer",
                 "repo": "thug",
                 "stars": 1031
@@ -3477,6 +3799,11 @@
                 "repo": "honeyku",
                 "stars": 65
               }
+            },
+            {
+              "children": [],
+              "description": "online free canary tokens (AWS, SSH, Email, Web)",
+              "title": "Tracebit Community Edition"
             }
           ],
           "description": "Honeytokens",
@@ -3690,10 +4017,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-05-25T07:50:10Z",
+                "last_commit": "2026-05-26T07:55:17Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4025
+                "stars": 4028
               }
             },
             {
@@ -3739,6 +4066,19 @@
                 "repo": "ovizart",
                 "stars": 49
               }
+            },
+            {
+              "children": [],
+              "description": "Real-time monitoring and visualization of failed SSH login attempts with geolocation and Grafana dashboards.",
+              "title": "SSH-Radar",
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-24T15:00:52Z",
+                "owner": "AntonSatt",
+                "repo": "SSH-Radar",
+                "stars": 2
+              }
             }
           ],
           "description": "Visualization",
@@ -3775,6 +4115,11 @@
             "repo": "honeypot-setup-script",
             "stars": 83
           }
+        },
+        {
+          "children": [],
+          "description": null,
+          "title": "The Security Canary Maturity Model"
         },
         {
           "children": [
@@ -3832,6 +4177,21 @@
               "children": [],
               "description": "Behavioral footprinting for self-propagating worm detection and profiling.",
               "title": "vEYE"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "'It's Not Paranoia If They're Really After You': When Announcing Deception Technology Can Change Attacker Decisions"
+            },
+            {
+              "children": [],
+              "description": null,
+              "title": "When to Deceive: A Cross-Layer Stackelberg Game Framework for Strategic Timing of Cyber Deception"
             }
           ],
           "description": "Research Papers",
@@ -3850,7 +4210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:14:11.724Z",
+    "last_updated": "2026-05-27T06:35:48.957Z",
     "original_repository": "paralax/awesome-honeypots",
     "source_repository": "v1nvn/enhansome-honeypots",
     "source_repository_description": null,
