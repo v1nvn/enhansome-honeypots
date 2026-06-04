@@ -31,7 +31,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 13811
+            "stars": 13817
           }
         },
         {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-05-25T13:21:31Z",
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -601,7 +601,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-06-03T06:21:07Z",
+                "last_commit": "2026-06-04T06:31:18Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
@@ -875,7 +875,7 @@
             "last_commit": "2026-05-25T13:21:31Z",
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -921,7 +921,7 @@
                 "last_commit": "2024-08-01T13:23:27Z",
                 "owner": "DinoTools",
                 "repo": "dionaea",
-                "stars": 802
+                "stars": 803
               }
             },
             {
@@ -1183,7 +1183,7 @@
                 "last_commit": "2021-06-28T18:46:07Z",
                 "owner": "citronneur",
                 "repo": "rdpy",
-                "stars": 1738
+                "stars": 1737
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2026-05-27T18:05:00Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1479
+                "stars": 1480
               }
             },
             {
@@ -1442,7 +1442,7 @@
             "last_commit": "2026-05-27T18:05:00Z",
             "owner": "mushorg",
             "repo": "conpot",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -1538,10 +1538,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-05-26T06:01:03Z",
+                "last_commit": "2026-06-03T19:06:11Z",
                 "owner": "ivre",
                 "repo": "masscanned",
-                "stars": 138
+                "stars": 139
               }
             },
             {
@@ -1593,7 +1593,7 @@
                 "last_commit": "2026-05-20T03:41:13Z",
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 2882
+                "stars": 2883
               }
             },
             {
@@ -1993,7 +1993,7 @@
                 "last_commit": "2024-05-14T08:41:59Z",
                 "owner": "hatching",
                 "repo": "vmcloak",
-                "stars": 516
+                "stars": 517
               }
             },
             {
@@ -2065,7 +2065,7 @@
                 "last_commit": "2026-06-01T08:55:13Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6091
+                "stars": 6096
               }
             },
             {
@@ -2090,7 +2090,7 @@
             "last_commit": "2026-06-01T08:55:13Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6091
+            "stars": 6096
           }
         },
         {
@@ -2106,11 +2106,11 @@
               "title": "T-Pot",
               "repo_info": {
                 "archived": false,
-                "language": "C",
-                "last_commit": "2026-06-02T16:50:04Z",
+                "language": "Shell",
+                "last_commit": "2026-06-03T14:46:31Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9262
+                "stars": 9263
               }
             },
             {
@@ -2123,7 +2123,7 @@
                 "last_commit": "2026-06-02T14:45:11Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2030
+                "stars": 2031
               }
             }
           ],
@@ -2131,11 +2131,11 @@
           "title": "Low interaction honeypot",
           "repo_info": {
             "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-02T16:50:04Z",
+            "language": "Shell",
+            "last_commit": "2026-06-03T14:46:31Z",
             "owner": "telekom-security",
             "repo": "tpotce",
-            "stars": 9262
+            "stars": 9263
           }
         },
         {
@@ -2892,7 +2892,7 @@
                 "last_commit": "2026-06-03T06:06:00Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6385
+                "stars": 6388
               }
             },
             {
@@ -2954,10 +2954,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-06-03T01:28:41Z",
+                "last_commit": "2026-06-03T22:16:01Z",
                 "owner": "InnerWarden",
                 "repo": "innerwarden",
-                "stars": 151
+                "stars": 152
               }
             },
             {
@@ -3188,7 +3188,7 @@
                 "last_commit": "2024-10-29T17:40:05Z",
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 674
+                "stars": 675
               }
             },
             {
@@ -3240,7 +3240,7 @@
                 "last_commit": "2024-10-21T23:23:25Z",
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1734
+                "stars": 1735
               }
             },
             {
@@ -3747,7 +3747,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-06-02T13:02:37Z",
+                "last_commit": "2026-06-04T06:00:29Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
                 "stars": 2068
@@ -3816,7 +3816,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-02T13:02:37Z",
+            "last_commit": "2026-06-04T06:00:29Z",
             "owner": "thinkst",
             "repo": "canarytokens",
             "stars": 2068
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T07:00:57.843Z",
+    "last_updated": "2026-06-04T06:50:45.936Z",
     "original_repository": "paralax/awesome-honeypots",
     "source_repository": "v1nvn/enhansome-honeypots",
     "source_repository_description": null,
