@@ -18,7 +18,7 @@
             "last_commit": "2025-09-03T07:24:40Z",
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3395
+            "stars": 3394
           }
         },
         {
@@ -31,7 +31,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 13844
+            "stars": 13845
           }
         },
         {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-06-11T11:43:01Z",
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 542
+                "stars": 543
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2025-12-19T22:02:41Z",
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1112
+                "stars": 1111
               }
             },
             {
@@ -601,7 +601,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-06-12T06:17:19Z",
+                "last_commit": "2026-06-13T06:21:55Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
@@ -875,7 +875,7 @@
             "last_commit": "2026-06-11T11:43:01Z",
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 542
+            "stars": 543
           }
         },
         {
@@ -1048,7 +1048,7 @@
                 "last_commit": "2025-12-03T18:22:22Z",
                 "owner": "qeeqbox",
                 "repo": "honeypots",
-                "stars": 974
+                "stars": 973
               }
             },
             {
@@ -1541,7 +1541,7 @@
                 "last_commit": "2026-06-08T00:52:35Z",
                 "owner": "ivre",
                 "repo": "masscanned",
-                "stars": 139
+                "stars": 140
               }
             },
             {
@@ -1883,7 +1883,7 @@
                 "last_commit": "2026-06-08T21:37:34Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2492
+                "stars": 2493
               }
             }
           ],
@@ -1895,7 +1895,7 @@
             "last_commit": "2026-06-08T21:37:34Z",
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2492
+            "stars": 2493
           }
         },
         {
@@ -1980,7 +1980,7 @@
                 "last_commit": "2022-11-05T15:56:55Z",
                 "owner": "nsmfoo",
                 "repo": "antivmdetection",
-                "stars": 771
+                "stars": 772
               }
             },
             {
@@ -2010,7 +2010,7 @@
             "last_commit": "2022-11-05T15:56:55Z",
             "owner": "nsmfoo",
             "repo": "antivmdetection",
-            "stars": 771
+            "stars": 772
           }
         },
         {
@@ -2065,7 +2065,7 @@
                 "last_commit": "2026-06-05T06:42:12Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6111
+                "stars": 6113
               }
             },
             {
@@ -2090,7 +2090,7 @@
             "last_commit": "2026-06-05T06:42:12Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6111
+            "stars": 6113
           }
         },
         {
@@ -2107,10 +2107,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-06-11T18:17:52Z",
+                "last_commit": "2026-06-12T11:54:20Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9275
+                "stars": 9279
               }
             },
             {
@@ -2120,10 +2120,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-06-09T02:42:39Z",
+                "last_commit": "2026-06-12T13:55:17Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2045
+                "stars": 2046
               }
             }
           ],
@@ -2132,10 +2132,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-11T18:17:52Z",
+            "last_commit": "2026-06-12T11:54:20Z",
             "owner": "telekom-security",
             "repo": "tpotce",
-            "stars": 9275
+            "stars": 9279
           }
         },
         {
@@ -2166,7 +2166,7 @@
                 "last_commit": "2022-01-06T01:14:11Z",
                 "owner": "BinaryDefense",
                 "repo": "artillery",
-                "stars": 1041
+                "stars": 1040
               }
             },
             {
@@ -2482,7 +2482,7 @@
                 "last_commit": "2024-02-02T22:07:12Z",
                 "owner": "Phype",
                 "repo": "telnet-iot-honeypot",
-                "stars": 314
+                "stars": 315
               }
             },
             {
@@ -2520,7 +2520,7 @@
             "last_commit": "2022-01-06T01:14:11Z",
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1041
+            "stars": 1040
           }
         },
         {
@@ -2954,10 +2954,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-06-12T06:46:39Z",
+                "last_commit": "2026-06-13T06:15:50Z",
                 "owner": "InnerWarden",
                 "repo": "innerwarden",
-                "stars": 155
+                "stars": 157
               }
             },
             {
@@ -3680,7 +3680,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-06-05T19:43:34Z",
+                "last_commit": "2026-06-12T19:43:23Z",
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 209
@@ -3692,7 +3692,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-06-05T19:43:34Z",
+            "last_commit": "2026-06-12T19:43:23Z",
             "owner": "SentryPeer",
             "repo": "SentryPeer",
             "stars": 209
@@ -3747,7 +3747,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-06-11T21:10:43Z",
+                "last_commit": "2026-06-12T07:40:47Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
                 "stars": 2076
@@ -3816,7 +3816,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T21:10:43Z",
+            "last_commit": "2026-06-12T07:40:47Z",
             "owner": "thinkst",
             "repo": "canarytokens",
             "stars": 2076
@@ -4025,7 +4025,7 @@
                 "last_commit": "2026-06-11T13:02:55Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4040
+                "stars": 4041
               }
             },
             {
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:50:52.607Z",
+    "last_updated": "2026-06-13T06:23:51.755Z",
     "original_repository": "paralax/awesome-honeypots",
     "source_repository": "v1nvn/enhansome-honeypots",
     "source_repository_description": null,
